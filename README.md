@@ -6,4 +6,4 @@ Here you can see and follow all my projects, both personal and group. see you an
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Perezdh13&layout=compact)](https://github.com/Perezdh13/github-readme-stats)  
     <br><br>    
     And link to kata page<br><br><br>
-    ![imagen](https://www.codewars.com/users/Perezdh13/badges/large)
+    [![imagen](https://www.codewars.com/users/Perezdh13/badges/large)](https://https://www.codewars.com/users/Perezdh13)
