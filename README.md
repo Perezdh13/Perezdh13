@@ -1,4 +1,4 @@
-### Hello, this is the repository of a Factoria F5 student as a fullstack developer.
+### Hello.
 Here you can see and follow all my projects, both personal and group. see you and have a very good day
 
 
